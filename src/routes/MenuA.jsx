@@ -2,7 +2,7 @@ import { Link, Outlet } from "react-router-dom"
 //import "./MenStyles/globalMenu.css"
 // 
 function MenuA() {
-//////////////////////////
+
   return (
     <>
     <div>
